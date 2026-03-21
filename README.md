@@ -3,6 +3,23 @@
 ## AIM
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
+##   PROBLEM STATEMENT AND DATASET
+
+The objective of this project is to create a CNN that can categorize images of fashion items from the Fashion MNIST dataset. This dataset includes grayscale images of clothing and accessories such as T-shirts, trousers, dresses, and footwear. The task is to accurately predict the correct category for each image while ensuring the model is efficient and robust.
+
+1.Training data: 60,000 images
+
+2.Test data: 10,000 images
+
+3.Classes: 10 fashion categories
+
+The CNN consists of multiple convolutional layers with activation functions, followed by pooling layers, and ends with fully connected layers to output predictions for all 10 categories.
+
+## Neural Network Model
+
+![DL](https://github.com/Bavya-sri18/Develop-a-Convolutional-Deep-Neural-Network-for-Image-Classification/blob/main/DL3-1.png?raw=true)
+
+
 ## DESIGN STEPS
 ### STEP 1: 
 
